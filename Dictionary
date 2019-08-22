@@ -1,0 +1,13 @@
+# dictionary 
+# create a dictionary and take input from user anf return the meaning of the word from the dictionary
+
+word={
+
+      "specialization": "vishesagya",
+      "Turbidity": "gandagee",
+     "termendous": "gross",
+      "elegant": "smart"
+}
+
+
+print(word[input("enter the word:-").capitalize()])
